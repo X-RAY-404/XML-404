@@ -1,7 +1,7 @@
 
 import os, sys
 try:
-    __import__("NILOY").rsbuy()
+    __import__("eva").rsbuy()
 except Exception as e:
     exit(str(e))
         
